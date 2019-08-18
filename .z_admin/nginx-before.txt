@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="/z_admin/bootstrap.min.css" type="text/css" />
         <link rel="stylesheet" href="/z_admin/style.min.css">
-	<link rel='icon' href='z_admin/favicon.ico' type='image/x-icon'/ >
+	<link rel='icon' href='/.z_admin/favicon.ico' type='image/x-icon'/ >
 
 </head>
 
