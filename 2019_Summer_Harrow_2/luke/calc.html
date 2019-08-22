@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<h1>This is a calculator</h1>
+	<input type="number" id="first">
+	<select>
+		<option value ="+">+</option>
+		<option value ="-">-</option>
+		<option value ="*">*</option>
+		<option value ="/">/</option>
+	</select>
+	<input type="number" id="second"> =
+	<span id="result">________</span>
+	<br>
+	<button onclick="calculate()">Calculate</button>
+</body>
+</html>
+<script type="text/javascript">
+	function calculate() {
+		var a = document.getElementById('first').value;
+		var b = document.getElementById('second').value;
+		var c = document.getElementById('result');
+		c.innerHTML = Number(a) + Number(b);
+	}
+</script>
