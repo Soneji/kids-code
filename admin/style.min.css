@@ -202,3 +202,7 @@ word-wrap:normal;
 background-color:#aaa;
 color:#000
 }
+
+li {
+    font-size: 1.5em;
+}
