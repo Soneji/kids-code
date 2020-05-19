@@ -1,4 +1,4 @@
-# students.gocode.academy
+# kids-code
 
 Website featuring HTML code written by kids. 
 
