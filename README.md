@@ -7,17 +7,17 @@ As part of a summer camp, I taught children, with no prior web development exper
 ### Some personal favourites:
 
 #### Find a book
-https://github.soneji.xyz/students.gocode.academy/2019_Summer_Harrow_2/FindABook/
+https://github.soneji.xyz/kids-code/2019_Summer_Harrow_2/FindABook/
 ![](screenshots/2.png)
 
 #### PyMath
-https://github.soneji.xyz/students.gocode.academy/2019_Summer_Harrow_2/PyMath.html/
+https://github.soneji.xyz/kids-code/2019_Summer_Harrow_2/PyMath.html/
 ![](screenshots/3.png)
 
 #### Luke
-https://github.soneji.xyz/students.gocode.academy/2019_Summer_Harrow_2/luke/
+https://github.soneji.xyz/kids-code/2019_Summer_Harrow_2/luke/
 ![](screenshots/4.png)
 
 #### Siddarth
-https://github.soneji.xyz/students.gocode.academy/2019_Summer_Harrow_1/siddharth/
+https://github.soneji.xyz/kids-code/2019_Summer_Harrow_1/siddharth/
 ![](screenshots/1.png)
