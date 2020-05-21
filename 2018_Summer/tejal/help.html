@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>donate</title>
+	<link rel="stylesheet" type="text/css" href="polarbear.css"/>
+</head>
+<body>
+	<a href="./about.html">about</a>
+	<a href="./help.html">donate</a>
+	<a href="./test.html">home</a>
+    <h1>DONATE</h1>
+    <p>Please donate money to create an invention to stop global warming so we can still be lazy. Every second the artic ice is melting and that is creating floods so its affecting us too so help save them and your technically saving yourself.   </p>
+
+    <form>
+    	donation
+    	<input type="text" name="donation amount" id="donation_amount">
+    	<button type="button" onclick="donate()">Submit</button>
+    </form>
+    <p id=donation></p> 
+</body>
+</html>
+
+<script type="text/javascript">
+	function donate() {
+		document.getElementById("donation").innerHTML="Thanks!"
+	}
+</script>

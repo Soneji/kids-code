@@ -1,0 +1,18 @@
+h1 {
+	colour:purple;
+}
+
+h2 {
+	colour:purple;
+}
+
+p {
+	colour:green;
+}
+
+
+body {
+	background-image:  url("http://innsikten.no/bilder/files/gammel/Transparent%20hjertesky.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
