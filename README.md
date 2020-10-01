@@ -2,7 +2,7 @@
 
 Website featuring HTML code written by kids. 
 
-As part of a summer camp, I taught children, with no prior web development experience, between the age of 6 and 16 how to make websites using HTML and basic JavaScript. Here is their work after one day of teaching! 
+As part of a summer camp, I taught children, with no prior web development experience, between the age of 6 and 16 how to make websites using HTML and basic JavaScript. Here is their mindblowing work after one day of teaching! 
 
 ### Some personal favourites:
 
