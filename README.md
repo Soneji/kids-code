@@ -1,5 +1,7 @@
 # kids-code
 
+<img src="https://repository-images.githubusercontent.com/202940000/50407c00-bae2-11ea-8a50-73086be0d699">
+
 Website featuring HTML code written by kids. 
 
 As part of a summer camp, I taught children, with no prior web development experience, between the ages of 6 and 16 how to make websites using HTML and basic JavaScript. Here is their work after one day of teaching! 
